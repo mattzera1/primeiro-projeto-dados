@@ -2,20 +2,20 @@
 
 Este é meu primeiro projeto de análise de dados usando Python.
 
-## Objetivo
-Aprender a trabalhar com dados, fazer análises simples e criar gráficos.
+## Resultados
 
-## O que foi feito
-- Leitura de um conjunto de dados
-- Análise básica dos dados
-- Criação de alguns gráficos simples
-- Interpretação dos resultados
+### Métrica principal: Índice por R$ 1.000
+Para comparar custo-benefício entre GPUs de forma padronizada, foi criado um **Índice de Desempenho Bruto** com base em três benchmarks (Time Spy DX12, OpenCL e Vulkan). Como os testes possuem escalas diferentes, os scores foram normalizados (melhor resultado em cada teste = 100) e combinados em uma média.
 
-## Ferramentas
-- Python
-- Pandas
-- Matplotlib
+A métrica usada para custo-benefício foi:
 
-## Status
-Em desenvolvimento 🚀
+**Índice por R$ 1.000 = (Índice de Desempenho Bruto / Preço) × 1000**
 
+Quanto maior esse valor, **mais desempenho bruto o consumidor recebe por R$ 1.000 investidos**.
+
+### Principais achados
+- Considerando os preços coletados e os benchmarks utilizados, a **RX 9070 XT** apresentou o maior **Índice por R$ 1.000**, liderando em custo-benefício no cenário de **desempenho bruto**.
+- A **RTX 5070 Ti**, apesar de alto desempenho, ficou atrás em custo-benefício no preço considerado.
+- A **RTX 5070** ficou em posição inferior no índice agregado, indicando menor retorno de desempenho por real investido dentro deste recorte.
+
+> Observação: este projeto mede **desempenho bruto/sintético** e não considera tecnologias e otimizações em jogos como **DLSS/Frame Generation (NVIDIA)** e **FSR (AMD)**. Em jogos reais, os resultados podem variar conforme título, resolução e configurações.

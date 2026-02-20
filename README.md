@@ -20,5 +20,8 @@ Quanto maior esse valor, **mais desempenho bruto o consumidor recebe por R$ 1.00
 
 > Observação: este projeto mede **desempenho bruto/sintético** e não considera tecnologias e otimizações em jogos como **DLSS/Frame Generation (NVIDIA)** e **FSR (AMD)**. Em jogos reais, os resultados podem variar conforme título, resolução e configurações.
 > ![Custo-benefício — Índice por R$ 1.000](images/indice_por_1000.png)
+> # “No recorte analisado, a RX 9070 XT entrega mais desempenho bruto por R$ 1.000 investidos, enquanto a RTX 5070 Ti apresenta alto desempenho absoluto, porém menor retorno por real no preço considerado.”
 📓 Notebook completo com código, tabelas e gráficos:  
 👉 [analise_gpus_preco_performance.ipynb](analise_gpus_preco_performance.ipynb)
+## Notas
+Este projeto foi desenvolvido com apoio de ferramentas de IA para acelerar prototipação e documentação. A coleta de dados, definição das métricas e interpretação dos resultados foram realizadas e validadas por mim.

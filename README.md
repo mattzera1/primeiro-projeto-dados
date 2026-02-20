@@ -19,3 +19,4 @@ Quanto maior esse valor, **mais desempenho bruto o consumidor recebe por R$ 1.00
 - A **RTX 5070** ficou em posição inferior no índice agregado, indicando menor retorno de desempenho por real investido dentro deste recorte.
 
 > Observação: este projeto mede **desempenho bruto/sintético** e não considera tecnologias e otimizações em jogos como **DLSS/Frame Generation (NVIDIA)** e **FSR (AMD)**. Em jogos reais, os resultados podem variar conforme título, resolução e configurações.
+> ![Custo-benefício — Índice por R$ 1.000](images/indice_por_1000.png)

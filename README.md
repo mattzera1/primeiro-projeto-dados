@@ -20,4 +20,13 @@ Quanto maior esse valor, **mais desempenho bruto o consumidor recebe por R$ 1.00
 
 > Observação: este projeto mede **desempenho bruto/sintético** e não considera tecnologias e otimizações em jogos como **DLSS/Frame Generation (NVIDIA)** e **FSR (AMD)**. Em jogos reais, os resultados podem variar conforme título, resolução e configurações.
 > ![Custo-benefício — Índice por R$ 1.000](images/indice_por_1000.png)
-📓 Notebook completo: [analise_gpus_basico.ipynb](analise_gpus_preco_performance.ipynb)
+📓 Notebook completo com código, tabelas e gráficos:  
+👉 [analise_gpus_preco_performance.ipynb](analise_gpus_preco_performance.ipynb)
+> ![Custo-benefício — Índice por R$ 1.000](images/indice_por_1000.png)
+/ (raiz)
+├─ analise_gpus_preco_performance.ipynb
+├─ README.md
+├─ images/
+│  ├─ indice_por_1000.png
+└─ data/        (opcional)
+   └─ gpus.csv  (se você usar CSV)

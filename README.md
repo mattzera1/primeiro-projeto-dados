@@ -22,11 +22,3 @@ Quanto maior esse valor, **mais desempenho bruto o consumidor recebe por R$ 1.00
 > ![Custo-benefício — Índice por R$ 1.000](images/indice_por_1000.png)
 📓 Notebook completo com código, tabelas e gráficos:  
 👉 [analise_gpus_preco_performance.ipynb](analise_gpus_preco_performance.ipynb)
-> ![Custo-benefício — Índice por R$ 1.000](images/indice_por_1000.png)
-/ (raiz)
-├─ analise_gpus_preco_performance.ipynb
-├─ README.md
-├─ images/
-│  ├─ indice_por_1000.png
-└─ data/        (opcional)
-   └─ gpus.csv  (se você usar CSV)

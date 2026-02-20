@@ -63,10 +63,8 @@ Em jogos reais, os resultados podem variar conforme título, resolução e confi
 ---
 
 ## Fontes
-- (https://www.3dmark.com/ https://browser.geekbench.com/)
-- Steam Hardware Survey (jan/2026): (link)
-- Relatório financeiro NVIDIA (Q3 FY2026): (link)
-- Benchmarks (Time Spy/OpenCL/Vulkan): (link)
-- Preços (lojas/data da coleta): (link)
+- Steam Hardware Survey (jan/2026): ([link](https://store.steampowered.com/hwsurvey/Steam-Hardware-Software-Survey-Welcome-to-Steam?l=brazilian))
+- Relatório financeiro NVIDIA (Q3 FY2026): ([link](https://investor.nvidia.com/financial-info/financial-reports/default.aspx))
+- Benchmarks (Time Spy/OpenCL/Vulkan): (https://www.3dmark.com/ https://browser.geekbench.com/)
 
 ---
